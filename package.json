@@ -1,0 +1,22 @@
+{
+  "name": "montserrat",
+  "version": "1.0.0",
+  "description": "fork from montserrat github repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seeliang/Montserrat.git"
+  },
+  "keywords": [
+    "montserrat"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seeliang/Montserrat/issues"
+  },
+  "homepage": "https://github.com/seeliang/Montserrat#readme"
+}
